@@ -22,4 +22,6 @@
   },
   "labelsDefinitionFile": "labels.json",
   "stateDir": "state"
+  "stateDir": "state"
+
 }
